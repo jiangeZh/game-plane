@@ -16,3 +16,7 @@ An airplane game with masm.
 4.	每击中一个目标分数+1
 5.	每有一个目标从屏幕下端逃走分数-5
 6.	当分数小于0或者飞机与目标产生碰撞时，游戏结束
+
+##More detail
+
+<a href="http://blog.csdn.net/jiange_zh/article/details/47394337">【汇编语言】纯汇编语言编写打飞机小游戏</a>
